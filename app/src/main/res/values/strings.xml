@@ -3,4 +3,6 @@
     <string name="password">Password</string>
     <string name="send">Send</string>
     <string name="username">Username</string>
+
+    <string name="enterMessage">Enter Message</string>
 </resources>
